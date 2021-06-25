@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453700424485",
+    "project_id": "child-finder-cf3d4",
+    "storage_bucket": "child-finder-cf3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453700424485:android:b02f7fa5af28ffbf8b80cc",
+        "android_client_info": {
+          "package_name": "com.tuk.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453700424485-oaq7tv61o4siu9i1cbdh9cbuq0ed7hsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnvh6hVvkMKZTjvl7Zs53gr83tbHTCqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453700424485-oaq7tv61o4siu9i1cbdh9cbuq0ed7hsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
